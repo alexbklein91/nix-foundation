@@ -1,6 +1,6 @@
 <template>
   <img id="portrait" alt="Portrait" src="./assets/portrait.jpg" />
-  <NixFoundation msg="Welcome to the Lasertag Foundation" />
+  <NixFoundation msg="Welcome to the Lasertag Foundation!" />
 </template>
 
 <script>
